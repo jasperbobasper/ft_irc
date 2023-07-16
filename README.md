@@ -24,6 +24,6 @@ I went into this project not even knowing what an IRC server was, and by the end
 This project involved a LOT of reading the original IRC protocols, legacy code and studying sockets and networking. 
 There are very few public IRC servers still maintained, so even joining one to be able to learn the usage of commands and what responses exist proved challenging (I was kicked from many servers for spam... oops.)
 
-My personal contribution was mostly error management/error handling, some server command implememntation, testing, and the extremely last-minute implementation of the world's simplest bot: 
+My personal contribution was mostly error management/error handling, some server command implementation, testing, and the extremely last-minute addition of the world's simplest bot: 
 The party bot. Party bot joins the server, creates a party channel and welcomes anyone who joins to the party. If the word "party" is mentioned, it says "did someone say party?!" 
 Yeah... that's it. I dont think my teammates shared my sense of humor but the bonus points requirement simply listed "The server has a bot", so I think they were happy to get the extra point. 
